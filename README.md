@@ -2,4 +2,4 @@
 
 
 
-Repository demonstrates skills when used HILT
+Repository demonstrates skills when used HILT,MVVM
